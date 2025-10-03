@@ -95,7 +95,7 @@ To get **accurate fraud predictions**, the model needs data that matches the **r
 **Rupesh Kumar Shah**  
 - 🎯 Aspiring **AI/ML Engineer** 
 - 🐙 GitHub: [iamrupesh1](https://github.com/iamrupesh1)  
-- 💼 LinkedIn: [Rupesh Kumar Shah](https://linkedin.com/in/rupesh-kumar-shah)  
+- 💼 LinkedIn: [Rupesh Kumar Shah](https://www.linkedin.com/in/rupesh-kumar-shah-691458292/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTqmCoNi%2BQpGyF5KAXOJETQ%3D%3D)  
 
 ---
 
